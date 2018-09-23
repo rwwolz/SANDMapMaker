@@ -18,10 +18,10 @@ S.A.N.D. will take given search parameters and collect relevant tweets.
 These are then run through a sentiment analysis program, and tied to their city of origin. 
 The results are then displayed on a map of the continental United States, scaled according to 
 tweet density and colored according to average sentiment. 
-================================================================================
+
 Disclaimer: Several code samples were taken directly from developers’ websites in this program. 
 We did our best to indicate this in the comments near any copied code. 
-================================================================================
+
 September 23, 2018
 
 Team:
